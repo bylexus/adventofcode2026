@@ -4,7 +4,7 @@ package day{{- $nrStr }}
 import (
 	"fmt"
 
-	"alexi.ch/aoc/2025/lib"
+	"alexi.ch/aoc/2026/lib"
 )
 
 type Day{{- $nrStr }} struct {

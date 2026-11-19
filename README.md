@@ -1,11 +1,11 @@
-# Advent of Code 2025
+# Advent of Code 2026
 
-Welcome to AoC 2025! Another year, another try! but remember, Program Or Die! Muahahahahaaa!
+Welcome to AoC 2026! Another year, another try! but remember, Program Or Die! Muahahahahaaa!
 
-Eagerly, we're all awaiting [Advent of Code, Edition 2025!](https://adventofcode.com/2025/). Finally, it's here.
+Eagerly, we're all awaiting [Advent of Code, Edition 2026!](https://adventofcode.com/2026/). Finally, it's here.
 What a magical time of the year!
 
-My AoC 2025 solutions in GO, again.
+My AoC 2026 solutions in GO, again.
 
 ## Run problems
 
@@ -49,7 +49,7 @@ package problems
 
 import (
 	"fmt"
-	"alexi.ch/aoc/2025/lib"
+	"alexi.ch/aoc/2026/lib"
 )
 
 type DayXX struct {

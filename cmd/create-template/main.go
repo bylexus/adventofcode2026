@@ -10,7 +10,7 @@ import (
 	"strings"
 	"text/template"
 
-	"alexi.ch/aoc/2025/lib"
+	"alexi.ch/aoc/2026/lib"
 )
 
 const TEMPLATE_DIR = "templates"

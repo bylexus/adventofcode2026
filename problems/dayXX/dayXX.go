@@ -3,7 +3,7 @@ package dayxx
 import (
 	"fmt"
 
-	"alexi.ch/aoc/2025/lib"
+	"alexi.ch/aoc/2026/lib"
 )
 
 type DayXX struct {
